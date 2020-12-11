@@ -27,3 +27,7 @@ The tool consists the following projects:
 
 Credits goes to [monoxgas](https://github.com/monoxgas/sRDI) for the sDRI tool that convert DLLs to position independent shellcode.\
 [Stephen Fewer](https://github.com/stephenfewer/ReflectiveDLLInjection) for the Reflective DLL injection technique.
+
+## Disclaimer:
+
+This project can only be used for authorized testing or educational purposes. Using this software against target systems without prior permission is illegal, and any damages from misuse of this software will not be the responsibility of the author.
